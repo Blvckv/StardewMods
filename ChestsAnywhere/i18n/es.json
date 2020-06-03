@@ -5,8 +5,8 @@
     "default-name.fridge": "Nevera",
     "default-name.junimo-hut": "Cabaña junimo #{{number}}",
     "default-name.shipping-bin": "Contenedor de envío",
-    "default-name.shipping-bin.store": "Shipping bin (ship items)", // TODO
-    "default-name.shipping-bin.take": "Shipping bin (retrieve items)", // TODO
+    "default-name.shipping-bin.store": "Contenedor de envío (Enviar artículos)",
+    "default-name.shipping-bin.take": "Contenededor de envío (Recuperar artículos)",
 
     // default category names
     "default-category.owned-cabin": "Cabaña ({{owner}})",
@@ -27,10 +27,10 @@
     "label.automate-take-first": "(Automático) Sacar primero los objetos de este cofre",
 
     // button labels
-    "button.edit-chest": "editar cofre",
-    "button.sort-inventory": "ordenar inventario",
-    "button.save": "guardar",
-    "button.reset": "reiniciar",
+    "button.edit-chest": "Editar cofre",
+    "button.sort-inventory": "Ordenar inventario",
+    "button.save": "Guardar",
+    "button.reset": "Reiniciar",
 
     // errors
     "errors.disabled-from-here": "No puedes acceder a tus cofres desde aquí.",
